@@ -1,0 +1,14 @@
+1. Setup React Project
+2. Clean up boiler plate
+3. Create component called post lists
+4. Install axios package
+5. Create list component
+6. Create state to hold list items
+   FOR GET REQUEST
+7. Put the Get method in the ComponentDidMount method
+8. Map through the list in the Render method
+   FOR POST REQUEST
+1. Create the Form and input elements
+2. Create states that would hold the data
+3. Write the changeHandler method??
+4. Write the submitHandler method
