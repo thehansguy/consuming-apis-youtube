@@ -1,5 +1,6 @@
 1. Setup React Project
-2. Clean up boiler plate
+2. Clean up boiler plate 
+   Setup file structure
 3. Create component called post lists
 4. Install axios package
 5. Create list component
